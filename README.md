@@ -1,4 +1,4 @@
-# protips
+# Pro Tips
 
 
 ## Want to be a engineering director?
